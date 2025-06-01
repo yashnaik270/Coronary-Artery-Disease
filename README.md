@@ -1,4 +1,14 @@
-# Coronary-Artery-Disease
+# CORONARY ARTERY DISEASE
+
+HOW CAN YOU USE THIS PROJECT AND MAKE CHNAGES:
+1. ADD CAD11.ipnb TO COLAB/JUPYTER THEN ADD CAD.CSV FILE AND ANALYSE
+2. THEN AUGMENT THAT CSV FILE YOU WLL GET CAD_AUGMENTED.CSV
+3. AROUND 10000 PATIENTS YOU WILL GET 100CAD AND 100 NON-CAD
+4. THEN TRAIN THE MODEL AND TEST IT
+5. NOW DOWNLOAD THE CAD_BLOCKAGE.ipynb AND THEN USE BLOACKAGE DATA WITH THAT FILE AND YOU WILL GET SEVERITY.
+6. MAKLE A UI AND INTEGRATE THE BEST MODEL ADN YOUR DONE :)
+
+   
 🚨 Machine Learning Meets Cardiology: CAD Prediction & Severity Estimation 🫀📊
 
 Over the past few weeks, I had the opportunity to work on a data-driven healthcare challenge: predicting Coronary Artery Disease (CAD) and estimating its severity (blockage %) using clinical data and machine learning — a potential game-changer for early diagnosis and triage.
